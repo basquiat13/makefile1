@@ -30,10 +30,10 @@ int Date::getYear() const {
 }
 
 void Date::displayAmerican() const {
-  ;
+  std::cout << "The American format for yesterdays date is " << month << "/" << day << "/" << year<< endl;
 }
 
 void Date::displayEuropean() const {
-  day= d;
+  std::cout << "The European format for yesterdays date is " << day << "/" << month << "/" << year<< endl;
 }
 
