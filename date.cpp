@@ -1,3 +1,5 @@
+// Author: Lailah
+// Date: 1/22/2025
 #include "date.h"
 #include <iostream>
 
