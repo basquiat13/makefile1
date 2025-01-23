@@ -1,6 +1,7 @@
 // Author: Lailah
 // Date: 1/22/2025
 #include "date.h"
+using namespace std;
 int main(){
 Date today;
 // function calls
